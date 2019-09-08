@@ -1,0 +1,50 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1366.768" x="59" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="52" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="323" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="376" y="191" />
+    <location key="SettingsEditor.0.0.1366.768" x="171" y="8" />
+    <location key="run.anything.popup.0.0.1366.768" x="347" y="159" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" x="481" y="35" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="141" y="21" />
+    <location key="FileChooserDialogImpl.0.0.2726.768" x="1826" y="121" />
+    <location key="#Project_Structure.0.0.2726.768" x="275" y="24" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2726.768" x="530" y="255" />
+    <location key="SettingsEditor.0.0.2726.768" x="1531" y="8" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2726.768" x="1776" y="121" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.2726.768" x="1742" y="257" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2726.768" x="1810" y="86" />
+    <location key="search.everywhere.popup.0.0.2726.768" x="1706" y="49" />
+    <location key="run.anything.popup.0.0.2726.768" x="1707" y="159" />
+    <location key="com.intellij.ide.util.TipDialog.1360.0.1366.768" x="1736" y="190" />
+    <location key="FileChooserDialogImpl.1360.0.1366.768" x="1826" y="121" />
+    <size key="new project wizard.0.0.1366.768" width="1239" height="726" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="424" height="561" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="725" height="728" />
+    <size key="SettingsEditor.0.0.1366.768" width="1014" height="708" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" width="393" height="653" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1343" height="171" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1343" height="171" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1343" height="171" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1343" height="171" />
+    <size key="GridCell.Tab.0.left.0.0.2726.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.center.0.0.2726.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.right.0.0.2726.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.bottom.0.0.2726.768" width="1343" height="201" />
+    <size key="FileChooserDialogImpl.0.0.2726.768" width="424" height="482" />
+    <size key="#Project_Structure.0.0.2726.768" width="800" height="675" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2726.768" width="300" height="214" />
+    <size key="SettingsEditor.0.0.2726.768" width="1014" height="708" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2726.768" width="524" height="482" />
+    <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.2726.768" width="583" height="222" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2726.768" width="456" height="551" />
+    <size key="search.everywhere.popup.0.0.2726.768" width="672" height="678" />
+    <size key="FileChooserDialogImpl.1360.0.1366.768" width="424" height="482" />
+    <size key="GridCell.Tab.0.left.1360.0.1366.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.center.1360.0.1366.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.right.1360.0.1366.768" width="1343" height="201" />
+    <size key="GridCell.Tab.0.bottom.1360.0.1366.768" width="1343" height="201" />
+  </component>
+</application>
